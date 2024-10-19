@@ -14,7 +14,8 @@
     alt="kirtii5" />
 </p>
 
-- 📫 How to reach me **kirtichoudhary1705@gmail.com** - 📄 Here's my resume
+- 📫 How to reach me **kirtichoudhary1705@gmail.com**
+- 📄 Here's my resume
 [https://drive.google.com/file/d/1056aBxqGmXnONxCImRj88BIiTaVqmGSK/view?usp=sharing](https://drive.google.com/file/d/1056aBxqGmXnONxCImRj88BIiTaVqmGSK/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
