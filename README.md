@@ -181,9 +181,3 @@
     alt="kirtii5" />
 </p>
 
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=kirtii5&"
-    alt="kirtii5" />
-</p>
