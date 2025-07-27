@@ -15,7 +15,7 @@
 </p>
 
 - 📫 How to reach me **kirtichoudhary1705@gmail.com**
-- 📄 Here's my resume [https://drive.google.com/file/d/1siN5kteL5ciZSEGcU4dGSYvL2IKu5bH1/view?usp=sharing]
+- 📄 Here's my resume [https://drive.google.com/file/d/1MrRHQe6n0aBU0BpZJ0p8kVCgd0VAOwhG/view?usp=sharing]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
